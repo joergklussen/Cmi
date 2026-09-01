@@ -1,0 +1,23 @@
+Crypto Market Intelligence V3 Audit
+
+Local broken links/assets: 0
+Stale legacy product claims: 11
+HTML pages: 34
+
+Dynamic API links (/api/pay and /api/paylio-callback) are intentionally excluded from static-file broken-link checks because they are Vercel Function routes defined in Vercel.toml.
+
+Broken local refs:
+
+
+Stale refs:
+products.html
+index.html
+faq.html
+lead-data.html
+crypto-lead-database.html
+crypto-leads.html
+why-cheap-crypto-leads-cost-more.html
+crypto-market-intelligence.html
+web3-leads.html
+products/pro.html
+products/business.html

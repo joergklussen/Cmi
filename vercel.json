@@ -1,0 +1,51 @@
+{
+  "outputDirectory": "public",
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/products.html",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/products/starter.html",
+      "destination": "/products/starter",
+      "permanent": true
+    },
+    {
+      "source": "/products/advanced.html",
+      "destination": "/products/advanced",
+      "permanent": true
+    },
+    {
+      "source": "/products/pro.html",
+      "destination": "/products/pro",
+      "permanent": true
+    },
+    {
+      "source": "/products/business.html",
+      "destination": "/products/business",
+      "permanent": true
+    },
+    {
+      "source": "/products/signal-report.html",
+      "destination": "/products/starter",
+      "permanent": true
+    },
+    {
+      "source": "/products/signal-report",
+      "destination": "/products/starter",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    }
+  ],
+  "functions": {
+    "api/download.js": {
+      "includeFiles": "data/**"
+    }
+  }
+}

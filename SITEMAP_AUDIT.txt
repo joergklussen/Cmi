@@ -1,0 +1,5 @@
+Indexable HTML pages: 34
+Product URLs: 6
+Segment URLs: 12
+Content URLs: 16
+Sitemap index + focused sitemaps created; robots.txt updated.
