@@ -42,10 +42,5 @@
       "destination": "/sitemap-index.xml",
       "permanent": true
     }
-  ],
-  "functions": {
-    "api/download.js": {
-      "includeFiles": "data/**"
-    }
-  }
+  ]
 }
